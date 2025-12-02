@@ -42,7 +42,7 @@ This is the hardware embodiment of:
 
 | Path                                          | Description                                                                    |
 |-----------------------------------------------|--------------------------------------------------------------------------------|
-| [`paper/Roe_RHEA_Lambda_Reversible_Cell_2025.pdf`](paper/Roe_RHEA_Lambda_Reversible_Cell_2025.pdf) | Full 8-page specification paper (LaTeX source available on request) |
+| [`paper/Roe_RHEA_Lambda_Reversible_Cell_2025.pdf`](paper/RHEA_Lambda_Family_Roe_2025.pdf) | Full 8-page specification paper (LaTeX source available on request) |
 | [`src/rhea_reversible_gate.v`](src/rhea_reversible_gate.v)                 | Behavioral Verilog – Yosys / Vivado / Quartus / Genus compatible            |
 | [`verification/check_reversibility.py`](verification/check_reversibility.py) | Exhaustive bijectivity proof (45 + 125 states)                             |
 | [`LICENSE`](LICENSE)                                                        | RHEA-Core Public Grant v1.0 – full sovereign license text                 |
